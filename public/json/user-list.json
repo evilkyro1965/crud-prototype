@@ -1,0 +1,30 @@
+{
+  "total" : "3",
+  "data" : 
+  [
+    {
+      "name":"fahrur",
+      "email":"fahrur.razi@mikieholiday.com",
+      "phone":"123",
+      "country":"USA",
+      "state":"nevada",
+      "postalCode":"123"
+    },
+    {
+      "name":"john.doe",
+      "email":"john.doe@mikieholiday.com",
+      "phone":"123",
+      "country":"USA",
+      "state":"nevada",
+      "postalCode":"123"
+    },
+    {
+      "name":"test",
+      "email":"test@mikieholiday.com",
+      "phone":"123",
+      "country":"USA",
+      "state":"nevada",
+      "postalCode":"123"
+    }
+  ]
+}

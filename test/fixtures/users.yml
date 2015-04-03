@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+fahrur:
+  name: fahrur
+  email: fahrur@mikieholiday.com
+  phone: 123
+  country: indonesia
+  state: sumut
+  postalCode: 20143
+
+john:
+  name: john
+  email: john@mikieholiday.com
+  phone: 123
+  country: indonesia
+  state: sumut
+  postalCode: 20143
+
+test:
+  name: test
+  email: test@mikieholiday.com
+  phone: 123
+  country: indonesia
+  state: sumut
+  postalCode: 20143  
